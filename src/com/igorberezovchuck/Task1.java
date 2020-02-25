@@ -8,7 +8,7 @@ import java.math.BigInteger;
 F(0) = 0, F(1) = 1
 F(N) = F(N - 1) + F(N - 2)
  */
-public class Main {
+public class Task1 {
 
     public static void main(String[] args) {
 
